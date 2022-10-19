@@ -293,7 +293,7 @@ div.social:hover {
     brightness(100%) contrast(103%);
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 480px) {
   /* body {
     max-width: 375px;
   } */

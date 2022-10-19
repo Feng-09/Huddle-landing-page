@@ -293,12 +293,13 @@ div.social:hover {
     brightness(100%) contrast(103%);
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 720px) {
   /* body {
     max-width: 375px;
   } */
 
   .body {
+    background-image: url(Huddle/bg-hero-mobile.svg);
     font-size: 1.125em;
     padding: 3%;
     padding-top: 5% !important;

@@ -14,7 +14,8 @@
   src: url(Huddle/Open-sans/static/OpenSans/OpenSans-Regular.ttf);
 }
 
-html {
+html,
+body {
   scroll-behavior: smooth;
 }
 
